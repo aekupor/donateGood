@@ -1,7 +1,7 @@
 # Donate Good
 
 ## Demo
-View a 2 minute [Video Demo](https://youtu.be/ltUCjAmkABA) of the app.
+View a 2 minute [Video Demo](https://youtu.be/ltUCjAmkABA) of the app. Check it out on the [Play Store](https://play.google.com/store/apps/details?id=com.ashleeProject.donategood&hl=en_US).
 
 View smaller sections of the app:
 - [Home page gif](./HomePage.gif)
